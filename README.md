@@ -38,6 +38,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
 - [RedFz150 - Pitando o motor de preto fosco](https://www.youtube.com/watch?v=D6P39WSFLrc)
 - [RedFz150 - Vídeozinho pra descontrair](https://www.youtube.com/watch?v=c8Tuj-RFQwE)
@@ -47,7 +48,7 @@
 
 ---
 
-<img align="left" alt="JVidalN's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JVidalN&show_icons=true&hide_border=true" />
+<img align="left" alt="JVidalN's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JVidalN&show_icons=true&hide_border=true&theme=Gradient" />
 
 [twitter]: https://twitter.com/JVidalN
 [youtube]: https://youtube.com/jvidalnunes
