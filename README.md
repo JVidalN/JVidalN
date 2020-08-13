@@ -18,17 +18,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_angular.svg" />
-<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp.svg" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" />][repos]
+[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" />][repos]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" />][repos]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" />][repos]
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_angular.svg" />][repos]
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp.svg" />][repos]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" />][repos]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" />][repos]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />][repos]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />][repos]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][repos]
 
 <br />
 <br />
@@ -38,6 +38,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
 - [RedFz150 - Pitando o motor de preto fosco](https://www.youtube.com/watch?v=D6P39WSFLrc)
 - [RedFz150 - Vídeozinho pra descontrair](https://www.youtube.com/watch?v=c8Tuj-RFQwE)
@@ -53,3 +54,4 @@
 [youtube]: https://youtube.com/jvidalnunes
 [instagram]: https://instagram.com/JVidalN
 [linkedin]: https://linkedin.com/in/jvidalnunes
+[repos]: https://github.com/JVidalN?tab=repositories
