@@ -48,7 +48,7 @@
 
 ---
 
-<img align="left" alt="JVidalN's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JVidalN&show_icons=true&hide_border=true&theme=Gradient" />
+<img align="left" alt="JVidalN's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JVidalN&show_icons=true&hide_border=true&theme=radical" />
 
 [twitter]: https://twitter.com/JVidalN
 [youtube]: https://youtube.com/jvidalnunes
