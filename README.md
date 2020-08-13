@@ -40,6 +40,10 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+
+<img align="left" alt="JVidalN's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JVidalN&show_icons=true&hide_border=true" />
+
 [twitter]: https://twitter.com/JVidalN
 [youtube]: https://youtube.com/jvidalnunes
 [instagram]: https://instagram.com/JVidalN
