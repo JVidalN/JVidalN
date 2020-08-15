@@ -45,6 +45,10 @@
 
 <!-- YOUTUBE:START -->
 - [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
+- [RedFz150 - Pitando o motor de preto fosco](https://www.youtube.com/watch?v=D6P39WSFLrc)
+- [RedFz150 - Vídeozinho pra descontrair](https://www.youtube.com/watch?v=c8Tuj-RFQwE)
+- [RedFz150 - Unboxing do Kit Alto-falantes Bravox para Polo Classic 97](https://www.youtube.com/watch?v=bTv199jVcxQ)
+- [RedFz150 - Unboxing e Instalação da alça de bagageiro de liga leve](https://www.youtube.com/watch?v=_BN3cbABnO4)
 <!-- YOUTUBE:END -->
 
 ---
