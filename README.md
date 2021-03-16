@@ -5,7 +5,7 @@
 
 - 👯 I'm looking for **open source projects to collaborate and full and partial time remote jobs**
 
-- 🥅 2020 Goals: **Get my ideas off the ground; Improve my English; Share knowledge with articles, videos and codes**
+- 🥅 2021 Goals: **Get my ideas off the ground; Improve my English; Share knowledge with articles, videos and codes**
 
 - ⚡ Hobbies: **Playing the guitar relaxes me; Play MMORPGs and others; Run and ride a bike.**
 
