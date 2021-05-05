@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Jean Vidal</h1>
-<h3 align="center">A Full Stack Developer!</h3>
+<h3 align="center">A technology enthusiast and love learn new stacks</h3>
 
 - 🌱 I’m currently learning **new stacks**
 
 - 👯 I'm looking for **open source projects to collaborate and full and partial time remote jobs**
 
-- 🥅 2020 Goals: **Get my ideas off the ground; Improve my English; Share knowledge with articles, videos and codes**
+- 🥅 2021 Goals: **Get my ideas off the ground; Improve my English; Share knowledge with articles, videos and codes**
 
 - ⚡ Hobbies: **Playing the guitar relaxes me; Play MMORPGs and others; Run and ride a bike.**
 
@@ -19,24 +19,6 @@
 [<img align="left" alt="JVidalN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" />][youtube]
 
 <br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg"  width="40" height="40" />][repos]
-[<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>][repos]
-[<img align="left" alt="html5"  width="40" height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" />][repos]
-[<img align="left" alt="CSS3"  width="40" height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" />][repos]
-[<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" />][repos]
-[<img align="left" alt="Angular" width="40" height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_angular.svg" />][repos]
-[<img align="left" alt="CSharp" width="40" height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp.svg" />][repos]
-[<img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" />][repos]
-[<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" />][repos]
-[<img align="left" alt="MongoDB" width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />][repos]
-[<img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />][repos]
-[<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>][repos]
-[<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][repos]
-
-<br />
 <br />
 
 ---
@@ -44,12 +26,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
 <!-- YOUTUBE:END -->
 
 ---
 
-<img align="center" alt="JVidalN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jvidaln&show_icons=true&hide_border=true&theme=tokyonight" />
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvidaln&show_icons=true&locale=en&layout=compact" alt="jvidaln" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvidaln&show_icons=true&locale=en" alt="jvidaln" /></p>
 
 [twitter]: https://twitter.com/JVidalN
 [codepen]: https://codepen.io/jvidaln
