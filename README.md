@@ -36,8 +36,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvidaln&show_icons=true&locale=en&layout=compact" alt="jvidaln" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvidaln&show_icons=true&locale=en" alt="jvidaln" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvidaln&show_icons=true&locale=en&layout=compact" alt="jvidaln" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvidaln&show_icons=true&locale=en" alt="jvidaln" />
 
 [twitter]: https://twitter.com/JVidalN
 [codepen]: https://codepen.io/jvidaln
