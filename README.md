@@ -27,7 +27,11 @@
 
 <!-- YOUTUBE:START -->
 
+- [DIY - Fiz uma Mesa Industrial de Baixo Custo Para Home Office, Games e Estudos - PARTE 1](https://www.youtube.com/watch?v=oWXYKGIJE_o)
 - [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
+- [RedFz150 - Pitando o motor de preto fosco](https://www.youtube.com/watch?v=D6P39WSFLrc)
+- [RedFz150 - Vídeozinho pra descontrair](https://www.youtube.com/watch?v=c8Tuj-RFQwE)
+- [RedFz150 - Unboxing do Kit Alto-falantes Bravox para Polo Classic 97](https://www.youtube.com/watch?v=bTv199jVcxQ)
 <!-- YOUTUBE:END -->
 
 ---
