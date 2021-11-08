@@ -26,7 +26,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [TDD com .NET Core (xUnit) e JavaScript (Jest)](https://www.youtube.com/watch?v=g0rL1Vpd8fU)
+- [TDD com .NET Core &lpar;xUnit&rpar; e JavaScript &lpar;Jest&rpar;](https://www.youtube.com/watch?v=g0rL1Vpd8fU)
 - [DIY - Fiz uma Mesa Industrial de Baixo Custo Para Home Office, Games e Estudos - PARTE 1](https://www.youtube.com/watch?v=oWXYKGIJE_o)
 - [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
 - [RedFz150 - Pitando o motor de preto fosco](https://www.youtube.com/watch?v=D6P39WSFLrc)
