@@ -5,13 +5,13 @@
 
 - 👯 I'm looking for **open source projects to collaborate and full and partial time remote jobs**
 
-- 🥅 2021 Goals: **Get my ideas off the ground; Improve my English; Share knowledge with articles, videos and codes**
+- 🥅 2022 Goals: **Work in an international company; Get my ideas off the ground; Improve more my English; Share knowledge with articles, videos and codes**
 
 - ⚡ Hobbies: **Playing the guitar relaxes me; Play MMORPGs and others; Run and ride a bike.**
 
 ### Connect with me:
 
-[<img align="left" alt="JVidalN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" />][codepen]
+[<img align="left" alt="JVidalN | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" />][codepen]
 [<img align="left" alt="JVidalN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JVidalN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JVidalN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][stackoverflow]
@@ -26,23 +26,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [TDD com .NET Core &lpar;xUnit&rpar; e JavaScript &lpar;Jest&rpar;](https://www.youtube.com/watch?v=g0rL1Vpd8fU)
+- [TDD com .NET Core (xUnit) e JavaScript (Jest)](https://www.youtube.com/watch?v=g0rL1Vpd8fU)
 - [DIY - Fiz uma Mesa Industrial de Baixo Custo Para Home Office, Games e Estudos - PARTE 1](https://www.youtube.com/watch?v=oWXYKGIJE_o)
 - [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
 - [RedFz150 - Pitando o motor de preto fosco](https://www.youtube.com/watch?v=D6P39WSFLrc)
 - [RedFz150 - Vídeozinho pra descontrair](https://www.youtube.com/watch?v=c8Tuj-RFQwE)
 <!-- YOUTUBE:END -->
-
----
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvidaln&show_icons=true&locale=en&layout=compact" alt="jvidaln" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=jvidaln&show_icons=true&locale=en" alt="jvidaln" /></td>
-    </tr>   
-  </table>
-</center>
 
 [twitter]: https://twitter.com/JVidalN
 [codepen]: https://codepen.io/jvidaln
