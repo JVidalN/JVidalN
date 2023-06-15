@@ -28,9 +28,9 @@
 <!-- YOUTUBE:START -->
 - [DIY - Fiz uma Mesa Industrial de Baixo Custo Para Home Office, Games e Estudos - PARTE 2](https://www.youtube.com/watch?v=UPmTKYAF1GQ)
 - [TDD com .NET Core &lpar;xUnit&rpar; e JavaScript &lpar;Jest&rpar;](https://www.youtube.com/watch?v=g0rL1Vpd8fU)
+- [Jean Vidal Live Stream](https://www.youtube.com/watch?v=125aM_TK3nU)
 - [DIY - Fiz uma Mesa Industrial de Baixo Custo Para Home Office, Games e Estudos - PARTE 1](https://www.youtube.com/watch?v=oWXYKGIJE_o)
 - [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
-- [RedFz150 - Pitando o motor de preto fosco](https://www.youtube.com/watch?v=D6P39WSFLrc)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/JVidalN
