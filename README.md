@@ -14,19 +14,3 @@
     * Read books;
     * Run or ride a bike;
     * Travel.
-
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [DIY - Fiz uma Mesa Industrial de Baixo Custo Para Home Office, Games e Estudos - PARTE 2](https://www.youtube.com/watch?v=UPmTKYAF1GQ)
-- [TDD com .NET Core &lpar;xUnit&rpar; e JavaScript &lpar;Jest&rpar;](https://www.youtube.com/watch?v=g0rL1Vpd8fU)
-- [Jean Vidal Live Stream](https://www.youtube.com/watch?v=125aM_TK3nU)
-- [DIY - Fiz uma Mesa Industrial de Baixo Custo Para Home Office, Games e Estudos - PARTE 1](https://www.youtube.com/watch?v=oWXYKGIJE_o)
-- [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
-<!-- YOUTUBE:END -->
-
-[repos]: https://github.com/JVidalN?tab=repositories
