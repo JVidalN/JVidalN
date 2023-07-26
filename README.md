@@ -1,24 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Jean Vidal</h1>
 <h3 align="center">A technology enthusiast and love learn new stacks</h3>
 
-- 🌱 I’m currently learning **new stacks**
+* 👯 I'm looking for:
+    * open source projects to collaborate;
+    * full or partial time remote jobs.
 
-- 👯 I'm looking for **open source projects to collaborate and full and partial time remote jobs**
+- 🥅 2023 Goals: 
+    - Work in an international company;
+    - Get my ideas off the ground;
+    - Share knowledge with articles, videos and codes.
 
-- 🥅 2022 Goals: **Work in an international company; Get my ideas off the ground; Improve more my English; Share knowledge with articles, videos and codes**
+* ⚡ Hobbies:
+    * Read books;
+    * Run or ride a bike;
+    * Travel.
 
-- ⚡ Hobbies: **Playing the guitar relaxes me; Play MMORPGs and others; Run and ride a bike.**
-
-### Connect with me:
-
-[<img align="left" alt="JVidalN | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" />][codepen]
-[<img align="left" alt="JVidalN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JVidalN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JVidalN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="JVidalN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JVidalN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" />][youtube]
-
-<br />
 <br />
 
 ---
@@ -33,10 +29,4 @@
 - [JavaScript - Como Criar Uma Ordenação Dinâmica?](https://www.youtube.com/watch?v=jjDJ4ueEZZE)
 <!-- YOUTUBE:END -->
 
-[twitter]: https://twitter.com/JVidalN
-[codepen]: https://codepen.io/jvidaln
-[stackoverflow]: https://stackoverflow.com/users/5854978
-[youtube]: https://youtube.com/jvidalnunes
-[instagram]: https://instagram.com/JVidalN
-[linkedin]: https://linkedin.com/in/jvidalnunes
 [repos]: https://github.com/JVidalN?tab=repositories
