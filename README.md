@@ -1,16 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Jean Vidal</h1>
-<h3 align="center">A technology enthusiast and love learn new stacks</h3>
+<h3 align="center">A technology enthusiast and love learn new things.</h3>
 
 * 👯 I'm looking for:
-    * open source projects to collaborate;
-    * full or partial time remote jobs.
+    * Open source projects to collaborate;
 
-- 🥅 2023 Goals: 
-    - Work in an international company;
+- 🥅 2024 Goals: 
     - Get my ideas off the ground;
-    - Share knowledge with articles, videos and codes.
+    - Keep sharing knowledge with articles, videos and codes.
 
 * ⚡ Hobbies:
+    * Brazilian Jiu-Jitsu; 💪
     * Read books;
     * Run or ride a bike;
     * Travel.
