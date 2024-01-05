@@ -16,9 +16,9 @@
 
 * 📑 Latest Articles:
 <!-- ARTICLES:START -->
-- [How ChatGPT helped me build an awesome React component](https://jvidaln.medium.com/how-chatgpt-helped-me-build-an-awesome-react-component-df3bdac48012?source=rss-106090e127e5------2)
-- [Standardizing validation and error messages using Resource (.resx) files in .NET](https://jvidaln.medium.com/standardizing-validation-and-error-messages-using-resource-resx-files-in-net-e18dedea55dd?source=rss-106090e127e5------2)
-- [Do You Know What is TDD?](https://jvidaln.medium.com/do-you-know-what-is-tdd-b07c7b22bee6?source=rss-106090e127e5------2)
-- [Boas Práticas para Frontend com React.js](https://jvidaln.medium.com/boas-pr%C3%A1ticas-para-frontend-com-react-js-75993e96af42?source=rss-106090e127e5------2)
-- [O que é Design System e como construí-lo](https://jvidaln.medium.com/o-que-%C3%A9-design-system-e-como-constru%C3%AD-lo-b592c6811209?source=rss-106090e127e5------2)
+- [How ChatGPT helped me build an awesome React component](https://dev.to/jvidaln/how-chatgpt-helped-me-build-an-awesome-react-component-1i77)
+- [Standardizing validation and error messages using Resource (.resx) files in .NET](https://dev.to/jvidaln/standardizing-validation-and-error-messages-using-resource-resx-files-in-net-2c9p)
+- [Do You Know What is TDD?](https://dev.to/jvidaln/do-you-know-what-is-tdd-10o2)
+- [What is Design System and how to build it](https://dev.to/jvidaln/what-is-design-system-and-how-to-build-it-30ad)
+- [Good Practices for Frontend with React.js](https://dev.to/jvidaln/good-practices-for-frontend-with-reactjs-1jjk)
 <!-- ARTICLES:END -->
