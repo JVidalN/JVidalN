@@ -16,4 +16,9 @@
 
 * 📑 Latest Articles:
 <!-- ARTICLES:START -->
+- [How ChatGPT helped me build an awesome React component](https://jvidaln.medium.com/how-chatgpt-helped-me-build-an-awesome-react-component-df3bdac48012?source=rss-106090e127e5------2)
+- [How ChatGPT helped me build an awesome React component](https://dev.to/jvidaln/how-chatgpt-helped-me-build-an-awesome-react-component-1i77)
+- [Standardizing validation and error messages using Resource (.resx) files in .NET](https://jvidaln.medium.com/standardizing-validation-and-error-messages-using-resource-resx-files-in-net-e18dedea55dd?source=rss-106090e127e5------2)
+- [Standardizing validation and error messages using Resource (.resx) files in .NET](https://dev.to/jvidaln/standardizing-validation-and-error-messages-using-resource-resx-files-in-net-2c9p)
+- [Do You Know What is TDD?](https://jvidaln.medium.com/do-you-know-what-is-tdd-b07c7b22bee6?source=rss-106090e127e5------2)
 <!-- ARTICLES:END -->
