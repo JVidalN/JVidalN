@@ -13,3 +13,7 @@
     * Read books;
     * Run or ride a bike;
     * Travel.
+
+* 📑 Latest Articles:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
