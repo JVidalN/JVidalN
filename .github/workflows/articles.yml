@@ -15,5 +15,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.2.5
         with:
           comment_tag_name: "ARTICLES"
-          feed_list: "https://medium.com/feed/@jvidaln"
+          feed_list: "https://dev.to/feed/jvidaln"
           max_post_count: 5
