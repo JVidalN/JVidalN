@@ -16,9 +16,9 @@
 
 * 📑 Latest Articles:
 <!-- ARTICLES:START -->
+- [Preparação para Entrevistas Globais: Minhas Experiências e Aprendizados](https://dev.to/jvidaln/preparacao-para-entrevistas-globais-minhas-experiencias-e-aprendizados-38p6)
+- [From Theory to Practice: Strategy Pattern in Real-world Scenarios](https://dev.to/jvidaln/from-theory-to-practice-strategy-pattern-in-real-world-scenarios-33mc)
 - [How ChatGPT helped me build an awesome React component](https://dev.to/jvidaln/how-chatgpt-helped-me-build-an-awesome-react-component-1i77)
 - [Standardizing validation and error messages using Resource (.resx) files in .NET](https://dev.to/jvidaln/standardizing-validation-and-error-messages-using-resource-resx-files-in-net-2c9p)
 - [Do You Know What is TDD?](https://dev.to/jvidaln/do-you-know-what-is-tdd-10o2)
-- [What is Design System and how to build it](https://dev.to/jvidaln/what-is-design-system-and-how-to-build-it-30ad)
-- [Good Practices for Frontend with React.js](https://dev.to/jvidaln/good-practices-for-frontend-with-reactjs-1jjk)
 <!-- ARTICLES:END -->
