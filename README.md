@@ -18,7 +18,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JVidalN&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats-rongronggg9.vercel.app/api?username=JVIDALN&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
 <img 
